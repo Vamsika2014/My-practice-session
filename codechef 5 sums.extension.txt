@@ -1,0 +1,68 @@
+1)i)T=2
+    n=1
+      2
+ ii)2
+    4
+ iii) So first they have given 2 test cases.
+      For 1 hour cooler requires 2 litres of water and for 2 hours the cooler requires 4 litres of water to cool.As i observed it requires double liters of water for a given 
+      time.
+
+
+2)i)4
+    N X  K
+    5 10 70
+    5 10 40
+   10 40 400
+   14 14 150
+ ii)YES
+    NO
+    YES
+    NO
+ iii)So first they have gievn 4 test cases which we have to take it as input.And then by using for loop we have to check N*X<=K. if it is print yes or else no
+     (BY THE WAY I HAVE SOLVED THIS SUM WITHOUT ANY REFERENCE WITH 100% SCORE.)
+
+
+3)i)4
+    1
+    5
+    2
+    1 1
+    3
+    1 2 3
+    4
+    2 1 2 2
+ ii)1
+    1
+    3
+    3
+ iii) So they have given 4 test cases which we have to take it as input. And then another input to represent number of frames.According to do my analysis if there are
+      same frame values side by side just skip it and print the remaining number of frames.
+
+4)i)3
+    4 10
+    2 13 4 16
+    5 8
+    9 3 8 8 4
+    4 6
+    1 2 3 4  
+  ii)2
+     1
+     0
+  iii)take 3 testcases as input.2nd line numbers of persons between ali and gihun and thier height as they both have same height. 3rd line persons height who are 
+      between them.we have to print the count of those number of persons who should get shot first (i.e more than their height) so that they both sholud visible in a 
+      same line 
+
+5)i)4
+    3
+    START38 LTIME108 START38
+    4
+    LTIME108 LTIME108 LTIME108 START38
+    2
+    LTIME108 LTIME108
+    6
+    START38 LTIME108 LTIME108 LTIME108 START38 LTIME108
+  ii)2 1
+     1 3
+     0 2
+     2 4
+  iii) count number of start38 and ltime108
